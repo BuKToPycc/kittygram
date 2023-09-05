@@ -1,0 +1,7 @@
+IP: 158.160.22.218;
+name_taski: https://gramm.servemp3.com/;
+login: yauser;
+password: 0506;
+name_kittygram: https://gramm.hopto.org/;
+login: yc-user;
+password: 0506; 
